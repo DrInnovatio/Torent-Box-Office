@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Torent-Box-Office/static/css/main.3cbc1529.chunk.css",
+    "main.js": "/Torent-Box-Office/static/js/main.00e06831.chunk.js",
+    "main.js.map": "/Torent-Box-Office/static/js/main.00e06831.chunk.js.map",
+    "runtime-main.js": "/Torent-Box-Office/static/js/runtime-main.08b85bf2.js",
+    "runtime-main.js.map": "/Torent-Box-Office/static/js/runtime-main.08b85bf2.js.map",
+    "static/js/2.43afd1b8.chunk.js": "/Torent-Box-Office/static/js/2.43afd1b8.chunk.js",
+    "static/js/2.43afd1b8.chunk.js.map": "/Torent-Box-Office/static/js/2.43afd1b8.chunk.js.map",
+    "index.html": "/Torent-Box-Office/index.html",
+    "precache-manifest.22d60473e5101121a94d2c94d3308909.js": "/Torent-Box-Office/precache-manifest.22d60473e5101121a94d2c94d3308909.js",
+    "service-worker.js": "/Torent-Box-Office/service-worker.js",
+    "static/css/main.3cbc1529.chunk.css.map": "/Torent-Box-Office/static/css/main.3cbc1529.chunk.css.map",
+    "static/js/2.43afd1b8.chunk.js.LICENSE": "/Torent-Box-Office/static/js/2.43afd1b8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08b85bf2.js",
+    "static/js/2.43afd1b8.chunk.js",
+    "static/css/main.3cbc1529.chunk.css",
+    "static/js/main.00e06831.chunk.js"
+  ]
+}
